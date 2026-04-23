@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="-YNf2jtuZvN3YNo6M22s">
+    <mxGraphModel dx="822" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cyXAx89MwDrROqlLT57D-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="公司介绍" vertex="1">
+          <mxGeometry height="30" width="147" x="330" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cyXAx89MwDrROqlLT57D-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="产品基本信息" vertex="1">
+          <mxGeometry height="30" width="147" x="330" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cyXAx89MwDrROqlLT57D-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="常见 QA" vertex="1">
+          <mxGeometry height="30" width="147" x="330" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cyXAx89MwDrROqlLT57D-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="业务规范：纠错" vertex="1">
+          <mxGeometry height="30" width="147" x="530" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cyXAx89MwDrROqlLT57D-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="提示词限定：你是谁、遇到问题怎么回、要注意什么" vertex="1">
+          <mxGeometry height="30" width="147" x="140" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
