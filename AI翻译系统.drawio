@@ -110,6 +110,21 @@
         <mxCell id="2m0bX7FR9M9NA98p-FKV-13" edge="1" parent="1" source="Z_s4S4PCX9EoYE4afDV7-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="2m0bX7FR9M9NA98p-FKV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2m0bX7FR9M9NA98p-FKV-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始的pdf+word资料" vertex="1">
+          <mxGeometry height="30" width="120" x="1121" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2m0bX7FR9M9NA98p-FKV-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始的pdf+word资料" vertex="1">
+          <mxGeometry height="30" width="120" x="960" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2m0bX7FR9M9NA98p-FKV-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Markdown文本化" vertex="1">
+          <mxGeometry height="30" width="120" x="1121" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2m0bX7FR9M9NA98p-FKV-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始的pdf+word资料" vertex="1">
+          <mxGeometry height="30" width="120" x="1280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2m0bX7FR9M9NA98p-FKV-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始的pdf+word资料" vertex="1">
+          <mxGeometry height="30" width="120" x="1121" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
