@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="xR1x43PSOhod3TDDHTWL">
+    <mxGraphModel dx="822" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y5okFq85T83iWSx-BeGj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="刺客AI" vertex="1">
+          <mxGeometry height="30" width="160" x="340" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="y5okFq85T83iWSx-BeGj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="去水印" vertex="1">
+          <mxGeometry height="30" width="80" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="y5okFq85T83iWSx-BeGj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pdf转word" vertex="1">
+          <mxGeometry height="30" width="80" x="374" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="y5okFq85T83iWSx-BeGj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="降AIGC" vertex="1">
+          <mxGeometry height="30" width="80" x="570" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
