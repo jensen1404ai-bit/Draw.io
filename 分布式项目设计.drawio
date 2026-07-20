@@ -39,7 +39,7 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MOOER数据监管平台" vertex="1">
           <mxGeometry height="200" width="200" x="120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-9" parent="2BNQBKfzmlVHMPA3CCgc-5" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/dxb/&lt;br&gt;&lt;br&gt;功能：&lt;br&gt;1.视频数据分析(5大社媒平台)&lt;br&gt;2.竞品数据分析(电商平台数据)&lt;br&gt;3.KOL寻找" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-9" parent="2BNQBKfzmlVHMPA3CCgc-5" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/dxb/&lt;br&gt;&lt;br&gt;功能：&lt;br&gt;1.视频数据分析(5大社媒平台)&lt;br&gt;2.竞品数据分析(电商平台数据)&lt;br&gt;3.KOL寻找&lt;br&gt;4.营销数据中心" vertex="1">
           <mxGeometry height="180" width="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-17" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-2">
