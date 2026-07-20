@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-2" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Windows服务器&lt;br&gt;139.199.78.114&lt;br&gt;&lt;br&gt;Nginx" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-2" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Windows服务器&lt;br&gt;139.199.78.114&lt;br&gt;&lt;br&gt;Nginx服务器代理转发请求" vertex="1">
           <mxGeometry height="180" width="240" x="660" y="420" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MOOER-AI翻译系统" vertex="1">
@@ -33,13 +33,13 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MOOER智能客服" vertex="1">
           <mxGeometry height="200" width="200" x="120" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-11" parent="2BNQBKfzmlVHMPA3CCgc-6" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/ctr/" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-11" parent="2BNQBKfzmlVHMPA3CCgc-6" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/ctr/&lt;br&gt;&lt;br&gt;功能：&lt;br&gt;1.三个公众号AI客服回复&lt;br&gt;2.三个公众号人工回复&lt;br&gt;3.三个公众号客户数据统计&lt;br&gt;4.AI智能助手" vertex="1">
           <mxGeometry height="180" width="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MOOER数据监管平台" vertex="1">
           <mxGeometry height="200" width="200" x="120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-9" parent="2BNQBKfzmlVHMPA3CCgc-5" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/dxb/" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-9" parent="2BNQBKfzmlVHMPA3CCgc-5" style="whiteSpace=wrap;html=1;" value="前端：http://139.199.78.114/dxb/&lt;br&gt;&lt;br&gt;功能：&lt;br&gt;1.视频数据分析(5大社媒平台)&lt;br&gt;2.竞品数据分析(电商平台数据)&lt;br&gt;3.KOL寻找" vertex="1">
           <mxGeometry height="180" width="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-17" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-2">
@@ -167,8 +167,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-63" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="服务器&lt;br&gt;单点登录服务器" vertex="1">
-          <mxGeometry height="60" width="220" x="660" y="1015" as="geometry" />
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-63" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="统一认证中心服务器&lt;br&gt;&lt;br&gt;1.企业微信注册用户&lt;br&gt;2.登录用户统一下发token&lt;br&gt;多个平台同时登录" vertex="1">
+          <mxGeometry height="190" width="220" x="660" y="950" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-69" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-63">
           <mxGeometry relative="1" as="geometry" />
@@ -179,11 +179,16 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-65" parent="2BNQBKfzmlVHMPA3CCgc-64" style="whiteSpace=wrap;html=1;" value="前端：http://xxxx.xxx.xx.x/login/register" vertex="1">
           <mxGeometry height="110" width="200" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="login" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="register/login" vertex="1">
           <mxGeometry height="30" width="60" x="470" y="900" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-70" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.69;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="2BNQBKfzmlVHMPA3CCgc-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssvaSN5jcb5z9F5luhoA-1" connectable="0" parent="2BNQBKfzmlVHMPA3CCgc-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="token密钥" vertex="1">
+          <mxGeometry relative="1" x="-0.0649" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-73" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-63">
           <mxGeometry relative="1" as="geometry" />
