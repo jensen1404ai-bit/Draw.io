@@ -93,19 +93,19 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-36" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="多语言翻译术语+记忆库数据库" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Mysql&lt;/b&gt;&lt;br&gt;多语言翻译术语+记忆库数据库" vertex="1">
           <mxGeometry height="130" width="200" x="1520" y="220" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-40" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-30" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="平台数据库" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-30" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Mysql&lt;/b&gt;&lt;br&gt;平台数据库" vertex="1">
           <mxGeometry height="130" width="200" x="1520" y="815" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-41" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-31" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="平台数据库" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-31" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Mysql&lt;/b&gt;&lt;br&gt;平台数据库" vertex="1">
           <mxGeometry height="130" width="200" x="1520" y="565" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-32" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Obsidian知识库数据库&lt;br&gt;1.客服知识库&lt;br&gt;2.产品说明书知识库&lt;br&gt;3.翻译知识库" vertex="1">
@@ -114,17 +114,17 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-35" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-33" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="平台数据库" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-33" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Mysql&lt;/b&gt;&lt;br&gt;平台数据库" vertex="1">
           <mxGeometry height="130" width="200" x="1520" y="70" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/tra/" vertex="1">
           <mxGeometry height="30" width="60" x="1000" y="210" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/dxb/" vertex="1">
-          <mxGeometry height="30" width="60" x="1000" y="600" as="geometry" />
+          <mxGeometry height="30" width="60" x="1000" y="850" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/ctr/" vertex="1">
-          <mxGeometry height="30" width="60" x="1000" y="850" as="geometry" />
+          <mxGeometry height="30" width="60" x="1000" y="600" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-52" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-19">
           <mxGeometry relative="1" as="geometry" />
@@ -147,7 +147,7 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-60" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-59" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="快速查询库&lt;br&gt;1.术语表+记忆表&lt;br&gt;2.FQA问答对+常见回复" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-59" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Elasticsearch&lt;/span&gt;快速查询库&lt;br&gt;1.术语表+记忆表&lt;br&gt;2.FQA问答对+常见回复" vertex="1">
           <mxGeometry height="105" width="200" x="1520" y="392.5" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-61" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.698;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="2BNQBKfzmlVHMPA3CCgc-19">
@@ -193,7 +193,7 @@
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-73" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2BNQBKfzmlVHMPA3CCgc-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BNQBKfzmlVHMPA3CCgc-71" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="用户信息数据库" vertex="1">
+        <mxCell id="2BNQBKfzmlVHMPA3CCgc-71" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Mysql&lt;/b&gt;&lt;br&gt;用户信息数据库" vertex="1">
           <mxGeometry height="130" width="200" x="1920" y="980" as="geometry" />
         </mxCell>
         <mxCell id="2BNQBKfzmlVHMPA3CCgc-74" edge="1" parent="1" source="2BNQBKfzmlVHMPA3CCgc-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="2BNQBKfzmlVHMPA3CCgc-71">
