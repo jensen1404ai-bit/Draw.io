@@ -1,20 +1,47 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="TPk2H-g8f0kkt83Ar16r">
-    <mxGraphModel dx="1092" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-12" edge="1" parent="1" source="VtY2oy-NY9zFrGUqorq7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VtY2oy-NY9zFrGUqorq7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VtY2oy-NY9zFrGUqorq7-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="注册页面" vertex="1">
-          <mxGeometry height="130" width="200" x="120" y="320" as="geometry" />
+          <mxGeometry height="130" width="200" x="120" y="280" as="geometry" />
         </mxCell>
         <mxCell id="VtY2oy-NY9zFrGUqorq7-2" parent="VtY2oy-NY9zFrGUqorq7-1" style="whiteSpace=wrap;html=1;" value="前端：http://0.0.0.0/register" vertex="1">
           <mxGeometry height="110" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-13" edge="1" parent="1" source="VtY2oy-NY9zFrGUqorq7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VtY2oy-NY9zFrGUqorq7-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VtY2oy-NY9zFrGUqorq7-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="登录页面" vertex="1">
           <mxGeometry height="130" width="200" x="120" y="520" as="geometry" />
         </mxCell>
         <mxCell id="VtY2oy-NY9zFrGUqorq7-4" parent="VtY2oy-NY9zFrGUqorq7-3" style="whiteSpace=wrap;html=1;" value="前端：http://0.0.0.0/login" vertex="1">
           <mxGeometry height="110" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-15" edge="1" parent="1" source="VtY2oy-NY9zFrGUqorq7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="VtY2oy-NY9zFrGUqorq7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-5" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="统一认证中心服务器&lt;br&gt;1.注册用户&lt;br&gt;2.链接企业微信二维码&lt;br&gt;3.用户管理&lt;br&gt;4.服务器注册路由" vertex="1">
+          <mxGeometry height="190" width="240" x="690" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-16" edge="1" parent="1" source="VtY2oy-NY9zFrGUqorq7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VtY2oy-NY9zFrGUqorq7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-6" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="微信服务器&lt;br&gt;1.wxID&lt;br&gt;2.token" vertex="1">
+          <mxGeometry height="160" width="300" x="660" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-14" edge="1" parent="1" source="VtY2oy-NY9zFrGUqorq7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VtY2oy-NY9zFrGUqorq7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="二维码" vertex="1">
+          <mxGeometry height="80" width="80" x="440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-17" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="MYSQL数据库&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="375" width="359" x="1181" y="265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
