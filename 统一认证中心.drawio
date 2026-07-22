@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="TPk2H-g8f0kkt83Ar16r">
-    <mxGraphModel>
+    <mxGraphModel dx="1092" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="注册页面" vertex="1">
+          <mxGeometry height="130" width="200" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-2" parent="VtY2oy-NY9zFrGUqorq7-1" style="whiteSpace=wrap;html=1;" value="前端：http://0.0.0.0/register" vertex="1">
+          <mxGeometry height="110" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="登录页面" vertex="1">
+          <mxGeometry height="130" width="200" x="120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="VtY2oy-NY9zFrGUqorq7-4" parent="VtY2oy-NY9zFrGUqorq7-3" style="whiteSpace=wrap;html=1;" value="前端：http://0.0.0.0/login" vertex="1">
+          <mxGeometry height="110" width="200" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
