@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="TPk2H-g8f0kkt83Ar16r">
-    <mxGraphModel dx="1911" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="VtY2oy-NY9zFrGUqorq7-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户统一认证中心——系统架构设计" vertex="1">
           <mxGeometry height="50" width="680" x="480" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="ndAIUHtS-F2V_bSh24E_-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="企业内部员工" vertex="1">
+          <mxGeometry height="60" width="30" x="490" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="ndAIUHtS-F2V_bSh24E_-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="企业外部员工" vertex="1">
+          <mxGeometry height="60" width="30" x="490" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="ndAIUHtS-F2V_bSh24E_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="http://auth.mooeraudio.com/api/sso/authorize?client_id=demo-project&amp;amp;redirect_uri=http://auth.mooeraudio.com&amp;amp;state=real-test" vertex="1">
+          <mxGeometry height="50" width="720" x="670" y="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
